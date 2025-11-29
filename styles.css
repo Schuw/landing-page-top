@@ -1,0 +1,46 @@
+body    {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 0px;
+    padding: 0px;   
+}
+/* 
+* {
+    outline: 3px    solid   lime;
+} */
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+   
+    padding: 0px 120px;
+    background-color: #1f2937;
+    font: 18px, Roboto, 'Lucida sans', sans-serif;  
+}
+
+.logo   {
+    height: 55px;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-evenly;
+    align-self: center;
+    
+    gap: 20px; 
+}
+
+.header-links a:link {
+    color: #e5e7eb;
+    text-decoration: none;   
+}
+
+.header-links a:visited {
+    color:  white;
+}
+
+/* header ends here */
+

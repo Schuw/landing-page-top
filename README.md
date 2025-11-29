@@ -3,6 +3,8 @@ A landing page using a wikipedia article as my funil end.
 
 with this landing page my task is to get it as close as The Odion Project (TOP) reference, but i took a step forward and i'm going to make this a "real word" project using the knowlegment i have in the moment.
 
+https://en.wikipedia.org/wiki/Atlantis
+
 
 Headline
 
