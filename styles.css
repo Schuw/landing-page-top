@@ -88,11 +88,9 @@ a:visited {
     margin: 5px 0px 0px 0px;
 }
 
-
 .img-container {
     box-sizing: border-box;
     display: flex;
-    margin-top: 30px;
 }
 
 .section1 img {
